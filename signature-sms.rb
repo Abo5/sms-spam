@@ -1,6 +1,6 @@
 require 'httparty'
 
-number = "556546574"
+number = "<number>"
 random = 0
 
 print "How many messages do you want to send? "
